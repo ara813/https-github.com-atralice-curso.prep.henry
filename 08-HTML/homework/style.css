@@ -1,3 +1,9 @@
+body {
+    background-image:url(https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 h1 {
     color: aquamarine;
 }
@@ -8,7 +14,7 @@ img {
 #thirdDiv {
     height: 600px;
     width: 500px;
-    background-color: black;
+    background-color: rgb(97, 43, 43);
     padding: 50px;
     border: 12px coral dashed;
 }
