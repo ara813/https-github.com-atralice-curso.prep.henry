@@ -23,3 +23,8 @@ img {
     font-size: 18px;
     margin: 50px;
 }
+div {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
